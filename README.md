@@ -5,3 +5,5 @@ Local repository
 ## Local Develoment
 
 1. OPen index.html in your browser.
+
+## Updating master branch
